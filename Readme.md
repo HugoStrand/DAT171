@@ -7,12 +7,9 @@
   - Computer assignments
   - Python, PyCharm and Jupyter
 
-## [Lecture 2: Core features](https://nbviewer.jupyter.org/github/HugoStrand/DAT171/blob/master/lecture02/lecture02.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/DAT171/master?filepath=lecture02%2Flecture02.ipynb)
+## [Lecture 2: Core features](https://nbviewer.jupyter.org/github/HugoStrand/DAT171/blob/master/lectures/Lecture02/Lecture02.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/HugoStrand/DAT171/master?filepath=lectures%2FLecture02%2FLecture02.ipynb)
 
-   - Help and documentation
-   - Errors
    - Types
-   - Importing and namespaces
    - Strings, lists, dictionaries, sets, tuples
    - Operators
    - Conditionals, loops, list/set/dictionary comprehensions
@@ -20,3 +17,6 @@
    - Scope
    - Lambda functions
    - References and copies
+   - Importing and namespaces
+   - Help and documentation
+   - Errors
