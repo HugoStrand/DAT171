@@ -27,3 +27,12 @@
    - File IO
    - NumPy multidimensional arrays
    - **Computer Assignment 1**
+
+## [Lecture 4: NumPy and Matplotlib](https://nbviewer.jupyter.org/github/HugoStrand/DAT171/blob/master/lectures/Lecture04/Lecture04.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)]( https://mybinder.org/v2/gh/HugoStrand/DAT171/master?filepath=lectures%2FLecture04%2FLecture04.ipynb )
+   - Arrays, indexing, slicing
+   - Reductions, sum, product, integration
+   - Linear algebra, tensor contractions
+   - Plotting, figure components
+   - Subplots, limits, legends, titles
+   - Styling, colors, markers, linestyles
+   - Plots, error bars, histograms, contour plots, 3D plotting
