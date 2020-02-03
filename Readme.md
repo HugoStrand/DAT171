@@ -36,3 +36,15 @@
    - Subplots, limits, legends, titles
    - Styling, colors, markers, linestyles
    - Plots, error bars, histograms, contour plots, 3D plotting
+
+## [Lecture 5: Scientific Python (SciPy)](https://nbviewer.jupyter.org/github/HugoStrand/DAT171/blob/master/lectures/Lecture05/Lecture05.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)]( https://mybinder.org/v2/gh/HugoStrand/DAT171/master?filepath=lectures%2FLecture05%2FLecture05.ipynb )
+  - Integration, adaptive quadrature
+  - Ordinary Differential Equations (ODEs)
+  - Interpolation
+  - Linear algebra
+  - Optimization, root finding
+  - Sparse matrices
+  - Graph algorithms, triangulation
+  - Statistics
+  - Signal and image processing
+  - File IO
