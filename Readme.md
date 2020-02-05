@@ -48,3 +48,11 @@
   - Statistics
   - Signal and image processing
   - File IO
+
+## [Lecture 6: Writing a library, documentation](https://nbviewer.jupyter.org/github/HugoStrand/DAT171/blob/master/lectures/Lecture06/Lecture06.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)]( https://mybinder.org/v2/gh/HugoStrand/DAT171/master?filepath=lectures%2FLecture06%2FLecture06.ipynb)
+  - Commenting and documenting code
+  - Python DocStrings
+  - Modules and packages
+  - Namespace and scope
+  - Command line arguments
+  - The Zen of Python
